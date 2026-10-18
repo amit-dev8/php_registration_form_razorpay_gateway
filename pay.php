@@ -29,7 +29,7 @@ if (!empty($_SESSION['booking_complete'])) {
     exit;
 }
 
-$keyId = 'rzp_test_MFboRbFioap5rK';
+$keyId = 'rzp_test_MFboRbFioap5r';
 $keySecret = 'uT7G4Yem6nY4EG0VJB4AYX3i';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {

@@ -1,8 +1,8 @@
 <?php
 $host    = 'localhost';
-$db      = 'u630071588_kriyamahotsav';
-$user    = 'u630071588_kriyamahotsav';
-$pass    = 'Kriya@68928';
+$db      = 'test';
+$user    = 'root';
+$pass    = '';
 $charset = 'utf8mb4';
 include 'connection.php';
 
